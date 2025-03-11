@@ -20,7 +20,7 @@ To Run app locally:
 conda create -p venv python -y
 ```
 ```bash
-conda activate venv
+conda activate venv\
 ```
 
 ```bash
