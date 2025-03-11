@@ -27,7 +27,6 @@ st.title("Next Word Prediction")
 # Model selection
 model_options = {
     "LSTM": "next_word_lstm.h5",
-    "Bi-LSTM": "next_word_bilstm.h5",
     "GRU": "next_word_gru.h5",
     "Bi-GRU": "next_word_bigru.h5"
 }
