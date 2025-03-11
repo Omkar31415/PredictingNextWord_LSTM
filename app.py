@@ -22,7 +22,7 @@ def predict_next_word(model, tokenizer, text, max_sequence_len):
     return None
 
 # Streamlit app
-st.title("Next Word Prediction")
+st.title("Shakespeare Next-Word Generation")
 
 # Model selection
 model_options = {
