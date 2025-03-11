@@ -15,6 +15,8 @@ This project aims to develop a deep learning model for predicting the next word 
 
 6- Deployment: A Streamlit web application is developed to allow users to input a sequence of words and get the predicted next word in real-time.
 
+Streamlit link: https://predictingnextword.streamlit.app/
+
 To Run app locally:
 ```bash
 conda create -p venv python -y
